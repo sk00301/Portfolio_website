@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ['latin'], variable: '--font-inter' })
 export const metadata = {
   title: 'Suryansh Kansara — AI & ML Engineer',
   description: 'Portfolio of Suryansh Kansara, a Computer Science graduate specializing in Data Science, AI & ML Engineer.',
-  generator: 'v0.app',
+  generator: 'sk',
   icons: {
     icon: [
       { url: '/icon.svg', type: 'image/svg+xml' },
